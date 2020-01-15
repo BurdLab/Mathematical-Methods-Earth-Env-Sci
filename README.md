@@ -6,3 +6,5 @@ published by Cambridge University Press.
 
 Matlab codes are provided in both LiveScript and standard script formats, and Python
 codes are provided as Jupyter notebooks.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3609055.svg)](https://doi.org/10.5281/zenodo.3609055)
